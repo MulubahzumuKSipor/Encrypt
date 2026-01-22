@@ -1,0 +1,15 @@
+C:\Users\Dell\OneDrive - BYU-Idaho\Encrypt\obj\Debug\net9.0-windows\Encrypt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive - BYU-Idaho\Encrypt\obj\Debug\net9.0-windows\Encrypt.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive - BYU-Idaho\Encrypt\obj\Debug\net9.0-windows\Encrypt.AssemblyInfo.cs
+C:\Users\Dell\OneDrive - BYU-Idaho\Encrypt\obj\Debug\net9.0-windows\Encrypt.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive - BYU-Idaho\Encrypt\obj\Debug\net9.0-windows\Encrypt.sourcelink.json
+C:\Users\Dell\OneDrive - BYU-Idaho\Encrypt\bin\Debug\net9.0-windows\Encrypt.exe
+C:\Users\Dell\OneDrive - BYU-Idaho\Encrypt\bin\Debug\net9.0-windows\Encrypt.deps.json
+C:\Users\Dell\OneDrive - BYU-Idaho\Encrypt\bin\Debug\net9.0-windows\Encrypt.runtimeconfig.json
+C:\Users\Dell\OneDrive - BYU-Idaho\Encrypt\bin\Debug\net9.0-windows\Encrypt.dll
+C:\Users\Dell\OneDrive - BYU-Idaho\Encrypt\bin\Debug\net9.0-windows\Encrypt.pdb
+C:\Users\Dell\OneDrive - BYU-Idaho\Encrypt\obj\Debug\net9.0-windows\Encrypt.dll
+C:\Users\Dell\OneDrive - BYU-Idaho\Encrypt\obj\Debug\net9.0-windows\refint\Encrypt.dll
+C:\Users\Dell\OneDrive - BYU-Idaho\Encrypt\obj\Debug\net9.0-windows\Encrypt.pdb
+C:\Users\Dell\OneDrive - BYU-Idaho\Encrypt\obj\Debug\net9.0-windows\Encrypt.genruntimeconfig.cache
+C:\Users\Dell\OneDrive - BYU-Idaho\Encrypt\obj\Debug\net9.0-windows\ref\Encrypt.dll
